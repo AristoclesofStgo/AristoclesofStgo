@@ -58,6 +58,12 @@ Full-stack developer building web, mobile and data products.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristoclesofStgo&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AristoclesofStgo/AristoclesofStgo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AristoclesofStgo/AristoclesofStgo/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/AristoclesofStgo/AristoclesofStgo/output/github-snake.svg" />
+</picture>
+
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-david-montes-de-oca-hurtado-4634b0233/)
