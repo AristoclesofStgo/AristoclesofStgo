@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Oca!;Full+Stack+Developer;Web+%26+Mobile+Apps;Data+%26+Analytics)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Oca%20%F0%9F%91%8B&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Data&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00D9FF,100:7B2FF7&height=220&section=header&text=Hi%2C%20I'm%20Oca&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%7C%20Mobile%20%7C%20Data&descAlignY=62&descSize=20" width="100%"/>
 
 </div>
 
@@ -102,13 +102,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AristoclesofStgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristoclesofStgo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AristoclesofStgo/AristoclesofStgo/output/github-snake-dark.svg" />
@@ -124,25 +118,11 @@
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AristoclesofStgo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages by repo" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AristoclesofStgo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AristoclesofStgo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AristoclesofStgo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AristoclesofStgo&theme=tokyonight&utcOffset=-4)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| # | Project | Description | Tech Stack | Status |
-|:---:|:---:|:---|:---:|:---:|
-| 1 | 🚐 **RideAhead** | Transport booking platform: web booking with online payments, plus rider and driver mobile apps | `Next.js` `TypeScript` `PostgreSQL` `React Native` | 🚧 In Progress |
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 
 </div>
 
@@ -160,8 +140,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-**⭐ Star my repositories if you find them helpful!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00D9FF&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
